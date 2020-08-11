@@ -51,4 +51,9 @@ $ python index.py
 1.Srushti Dhanyakumar Mandape<br> 
 2.Omkar Pradip Mali
 
+####follow us in linkedIn:
+https://www.linkedin.com/in/srushti-mandape-1b92531a9/
+https://www.linkedin.com/in/omkar-mali-opm/
+
+
 
